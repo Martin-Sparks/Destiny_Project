@@ -1,5 +1,6 @@
 import './App.css';
-import ApiConnect from './API/ApiConnect';
+import ApiConnect from './api/apiConnect';
+
 
 
 function App() {
